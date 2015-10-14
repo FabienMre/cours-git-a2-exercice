@@ -1,8 +1,5 @@
 <?php session_start();
 
-/******************************** 
-	 DATABASE & FUNCTIONS 
-********************************/
 require('config/config.php');
 require('model/functions.fn.php');
 
